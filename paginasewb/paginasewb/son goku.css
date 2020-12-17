@@ -1,0 +1,10 @@
+table, th, td {
+    border: 1px solid
+  }
+.h1 {
+      text-align: center;
+  }
+
+.derecha {
+    background-color: chartreuse;
+} 
